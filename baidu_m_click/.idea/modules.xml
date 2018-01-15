@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/baidu_m_click.iml" filepath="$PROJECT_DIR$/.idea/baidu_m_click.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_phantomjs/.idea/test_phantomjs.iml" filepath="$PROJECT_DIR$/../test_phantomjs/.idea/test_phantomjs.iml" />
+      <module fileurl="file://D:/company_info_fill/tianyancha/.idea/tianyancha.iml" filepath="D:/company_info_fill/tianyancha/.idea/tianyancha.iml" />
+    </modules>
+  </component>
+</project>
